@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+$translucent 1
+$basetexture "fat_sandspill2"
+$decal 1
+$decalscale 0.1
+}

@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "fat_misc_weegeeWhosNext"
+	"$translucent" 1
+}
+
+"UnlitGeneric"
+{
+	"$basetexture" "fat_benny_web1"
+	"$nolod" 1
+	"$translucent" 1
+}
+

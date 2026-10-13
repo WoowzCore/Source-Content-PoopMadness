@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "school_army4"
+	"$translucent" 1  
+}
+
+"UnlitGeneric"
+{
+	"$basetexture" "school_army4"
+	"$nolod" 1
+	"$translucent" 1
+}

@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "fat_benny_web2"
+	"$translucent" 1 
+}
+
+"UnlitGeneric"
+{
+	"$basetexture" "fat_benny_web2"
+	"$nolod" 1
+	"$translucent" 1
+}
