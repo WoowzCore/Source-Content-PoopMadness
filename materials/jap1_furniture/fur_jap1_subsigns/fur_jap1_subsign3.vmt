@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "JAP1_Furniture/FUR_JAP1_SubSigns/FUR_JAP1_SubSign3"
+		"$selfillum" 1 
+	"$bumpmap" "JAP1_Furniture/FUR_JAP1_SubSigns/FUR_JAP1_SubSign3_normal"
+
+	"$model" 1
+	
+	$envmap env_cubemap
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.5 0.5 0.5]"
+	$envmapcontrast ".9"
+	$envmapsaturation ".4"
+	
+}

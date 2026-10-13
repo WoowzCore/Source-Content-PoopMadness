@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "JAP1_Furniture/FUR_JAP1_SubBench/FUR_JAP1_SubBench"
+
+	// makes alpha in base texture 1 bit transparency
+	 "$alphatest" 1
+
+	// this says that a greyscale map tex will drive specular level
+	"$envmapmask" "JAP1_Furniture/FUR_JAP1_SubBench/FUR_JAP1_SubBench_spec"
+	"$envmap" "env_cubemap"
+
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[.1 .1 .1]"
+}

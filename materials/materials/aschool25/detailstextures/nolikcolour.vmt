@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "tictac/nolikcolour"
+	"$surfaceprop" "brick"
+    $selfillum 1
+}

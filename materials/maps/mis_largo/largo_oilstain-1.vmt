@@ -1,0 +1,7 @@
+lightmappedgeneric
+{
+ $baseTexture "maps/mis_largo/largo_oilstain-1"
+ $translucent 1
+ $decal 1
+ $vertexalpha 1
+}

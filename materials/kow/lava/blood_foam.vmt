@@ -1,0 +1,40 @@
+// envmaptint_fix
+"LightmappedGeneric"
+{
+	"LightmappedGeneric_DX6"
+	{
+		"$fallbackmaterial" "aztec/lava_dx70"
+	}
+
+	"$baseTexture" "kow\lava\blood_foam"
+	"$normalmap" "kow/lava/foam_normal"
+	"$dudvmap" "kow/lava/foam_dudv"
+	"$surfaceprop" "Slime"
+	"%keywords" "kow75"
+	"$normalmapalphaenvmapmask" "1"	
+	"$selfillum" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 1.00 .89 .80 ]"
+	"$envmapcontrast" "1"
+	"$bottommaterial" "aztec/lava_dx70_beneath"
+	"$fogenable" 1
+	"$fogcolor" "{29 99 39}"
+	"$fogstart" 1.00
+	"$fogend" 100.00
+	"Proxies"
+    {
+        "TextureScroll"
+        {
+            "texturescrollvar" "$baseTextureTransform"
+            "texturescrollrate" "0.02"
+            "texturescrollangle" "180.00"
+        }
+	"TextureScroll"
+		{
+			"texturescrollvar" "$bumptransform"
+			"texturescrollrate" .02
+			"texturescrollangle" 180.00
+		}
+
+    }
+}

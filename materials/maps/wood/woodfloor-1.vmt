@@ -1,0 +1,9 @@
+lightmappedgeneric
+{
+ $baseTexture "maps/wood/woodfloor-1"
+ $envmapcontrast "1.1"
+ $envmapsaturation "0.75"
+ $envmaptint "[0.12 0.12 0.12]"
+ $envmap env_cubemap
+ $surfaceprop wood
+}

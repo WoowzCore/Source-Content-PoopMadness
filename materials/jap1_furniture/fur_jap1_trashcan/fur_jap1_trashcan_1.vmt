@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "JAP1_Furniture/FUR_JAP1_Trashcan/FUR_JAP1_Trashcan_1"
+	"$model" 1
+	"$surfaceprop" "concrete"
+}

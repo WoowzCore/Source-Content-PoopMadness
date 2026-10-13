@@ -1,0 +1,10 @@
+
+"VertexLitGeneric"
+{
+
+"$basetexture" "JAP1_Furniture/FUR_JAP1_RiotAfterm4_1/FUR_JAP1_RiotAfterm4_1"
+
+// makes alpha in base texture transparency
+"$translucent" 1
+
+} 

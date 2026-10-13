@@ -1,0 +1,12 @@
+
+LightmappedGeneric
+{
+//$vertexcolor 1
+$vertexalpha 1
+
+$translucent 1
+	"$basetexture" "decals/stain_006"
+
+$decal 1
+$decalscale .15
+}

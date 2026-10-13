@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+ $basetexture "maps/construction/wood004"
+ $surfaceprop wood
+ $bumpmap "maps/construction/wood004_normal"
+ "%keywords" tacint
+}
+

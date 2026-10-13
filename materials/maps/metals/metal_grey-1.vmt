@@ -1,0 +1,5 @@
+lightmappedgeneric
+{
+ $baseTexture "maps\metals/metal_grey-1"
+ $surfaceprop metal
+}

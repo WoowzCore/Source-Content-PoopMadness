@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Jarate Toddy/liquid"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "Jarate Toddy/liquid_ref"
+}

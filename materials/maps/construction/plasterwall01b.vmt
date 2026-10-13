@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+ $basetexture "maps/construction/plasterwall01b"
+ $surfaceprop plaster
+ $bumpmap "maps/construction/plasterwall01_normal"
+ $detail "detail/plaster-1"
+ $detailscale 1
+ $detailblendfactor "1.5"
+ "%keywords" tacint
+}
+

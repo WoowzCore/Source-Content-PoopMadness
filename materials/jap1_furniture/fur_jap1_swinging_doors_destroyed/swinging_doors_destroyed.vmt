@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+"$basetexture" "JAP1_Furniture\FUR_JAP1_Swinging_Doors_Destroyed\Swinging_Doors_Destroyed.vtf"
+"$envmapmask" "JAP1_Furniture\FUR_JAP1_Swinging_Doors_Destroyed\Swinging_Doors_Destroyed_Specular.vtf"
+"$envmap" "env_cubemap"
+"$alphatest" "1" 
+"$nocull" "1"
+"$surfaceprop" "metal"
+
+}

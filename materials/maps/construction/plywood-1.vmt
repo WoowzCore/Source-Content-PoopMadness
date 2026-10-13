@@ -1,0 +1,11 @@
+lightmappedgeneric
+{
+ $baseTexture "maps/construction/plywood-1"
+ $bumpmap "maps/construction/plywood-1_normal"
+ $surfaceprop wood
+ 
+ $detail "detail/detail_wood1"
+ $detailscale 14
+ $detailblendfactor "1.8"
+ $detailblendmode 0
+}

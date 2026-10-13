@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+ $baseTexture "maps/monaco/nature/monaco-grass-01"
+ $surfaceprop carpet
+}

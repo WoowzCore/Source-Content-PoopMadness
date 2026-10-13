@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gmod_tower/suite/suite_carpet2"
+	"$bumpmap" "gmod_tower/suite/suite_carpet2_bump"
+	"$surfaceprop" "Carpet"
+	"$ssbump" "1"
+}

@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+    "$basetexture" "lego_life_rp_props_work\white_b"
+    "$selfillum" 1
+    "$surfaceprop" "glass"
+    "$reflectivity" "[0 0 0]"
+    "$nodecal" "1"
+    "$additive" "1"
+ }

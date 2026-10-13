@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+"$basetexture" "fedio/models/Model_CarBollard"
+"$surfaceprop" "metal"
+"$model" 1
+}

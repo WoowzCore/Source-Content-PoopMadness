@@ -1,0 +1,6 @@
+lightmappedgeneric
+{
+ $baseTexture "maps\carpet/carpet-7"
+ $bumpmap "maps\carpet/carpet-normal"
+ $surfaceprop carpet
+}

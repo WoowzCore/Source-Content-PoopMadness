@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+ $baseTexture "maps/mis_transit/wall_transit_01"
+ $bumpmap "maps/mis_transit/wall_transit_01_normal"
+ $surfaceprop tile
+ $envmap env_cubemap
+ $normalmapalphaenvmapmask 1
+}

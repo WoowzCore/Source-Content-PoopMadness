@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+ $baseTexture "maps/monaco/walls/plasterwall-3a"
+ $bumpmap "maps/monaco/walls/plasterwall-3_normal"
+ $surfaceprop tile
+}

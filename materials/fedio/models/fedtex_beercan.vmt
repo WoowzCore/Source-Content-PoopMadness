@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+"$basetexture" "fedio/models/FedTex_BeerCan"
+"$surfaceprop" "metal"
+"$model" 1
+}

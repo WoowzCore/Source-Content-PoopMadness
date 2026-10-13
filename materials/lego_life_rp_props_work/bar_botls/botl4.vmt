@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "lego_life_rp_props_work\green_b"
+    "$surfaceprop" "glass"
+    "$additive" "1"
+
+ }

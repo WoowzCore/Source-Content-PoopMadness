@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "JAP1_Furniture/FUR_JAP1_StrtLight/FUR_JAP1_StrtLight"
+	"$envmapmask" "JAP1_Furniture/FUR_JAP1_StrtLight/FUR_JAP1_StrtLight_spec"
+	"$envmap" "env_cubemap"
+
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[.1 .1 .1]"
+}

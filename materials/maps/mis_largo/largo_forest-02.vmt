@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+ $baseTexture "maps/mis_largo/largo_forest-02"
+ $surfaceprop concrete
+}

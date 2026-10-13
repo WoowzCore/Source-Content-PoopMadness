@@ -1,0 +1,5 @@
+lightmappedgeneric
+{
+ $baseTexture "maps\ceiling/insulation-1B"
+ $surfaceprop carpet 
+}

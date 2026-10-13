@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "aschool25/krasnoetenik"
+"$bumpmap" "aschool25/krasnoetenikbump"
+	"$envmap" "env_cubemap"
+"$envmaptint" "[.3 .3 .3]"
+}

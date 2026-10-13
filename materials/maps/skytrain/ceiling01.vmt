@@ -1,0 +1,7 @@
+lightmappedgeneric
+{
+ $baseTexture "maps\skytrain/ceiling01"
+ $bumpmap "maps\skytrain/ceiling01_normal"
+ 
+ $surfaceprop wood
+}

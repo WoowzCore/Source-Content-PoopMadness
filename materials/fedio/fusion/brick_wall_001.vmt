@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "fedio/fusion/Brick_Wall_001"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "fedio/fusion/Brick_Wall_001_NRM"
+
+}
+

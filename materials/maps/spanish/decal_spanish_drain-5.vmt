@@ -1,0 +1,7 @@
+lightmappedgeneric
+{
+ $baseTexture "maps/spanish/decal_spanish_drain-5"
+ $translucent 1
+ $decal 1
+ $vertexalpha 1
+}

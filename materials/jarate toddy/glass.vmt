@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Jarate Toddy/glass"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "Jarate Toddy/glass_ref"
+	"$surfaceprop" "Glass"
+	"$surfaceprop2" "Glass"
+	"$translucent" 1
+}
+

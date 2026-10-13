@@ -1,0 +1,28 @@
+ShatteredGlass
+{
+ $basetexture "maps/glass/glasswindowbreak070b"
+ $surfaceprop glass
+ $translucent 1
+// $alpha "0.45"
+ 
+ $detail "maps/glass/glasswindowbreak070b"
+ $detailscale "1.1"
+
+ 
+ $envmap "cubemaps/cubemap01"
+ //$envmapsphere 1
+ $envmapmask "maps/glass/glasswindowbreak070b_mask"
+ $envmaptint "[5 5 5]"
+ $envmapsaturation 0
+ $envmapcontrast "0.5" 
+ 
+ $nocull 1
+
+ 
+ Proxies
+ {
+ BreakableSurface
+ {
+ }
+ }
+}

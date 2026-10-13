@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{             
+    "$envmap" "env_cubemap"
+
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[.1 .1 .1]"
+    "$basetexture" "JAP1_Furniture\FUR_JAP1_Car_2\FUR_JAP1_Car_2"
+    "envmapmask" "JAP1_Furniture\FUR_JAP1_Car_2\FUR_JAP1_Car_2_Env" 
+}

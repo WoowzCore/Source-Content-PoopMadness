@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+"$basetexture" "JAP1_Furniture\FUR_JAP1_Spotlight\Spotlight_Diffuse.vtf"
+"$selfillum" "1"
+"$selfillum_envmapmask_alpha" "1"
+}

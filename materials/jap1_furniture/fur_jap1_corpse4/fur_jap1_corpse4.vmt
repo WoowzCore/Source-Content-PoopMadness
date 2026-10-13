@@ -1,0 +1,18 @@
+
+"VertexLitGeneric"
+{
+
+"$basetexture" "JAP1_Furniture/FUR_JAP1_Corpse4/FUR_JAP1_Corpse4"
+//"$bumpmap" "JAP1_Furniture/FUR_JAP1_Corpse4/FUR_JAP1_Corpse4_normal"
+
+	
+
+// defines reflection environment map as a cubemap 
+//"$envmap" "env_cubemap" 
+//"$envmapcontrast" 1
+//"$envmapsaturation" 0.2
+//"$envmaptint" "[.5 .5 .5]"
+
+
+
+} 
