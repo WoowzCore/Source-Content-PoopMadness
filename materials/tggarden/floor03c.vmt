@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "tggarden\floor03c"
+	"$bumpmap" "tggarden\floor03_normal"
+	"$surfaceprop" "tile"
+
+	$envmap			env_cubemap
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[2 2 2]"
+}

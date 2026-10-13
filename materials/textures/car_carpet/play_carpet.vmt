@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "textures/car_carpet/Play_carpet"
+	"$surfaceprop" "Wood_Solid"
+}

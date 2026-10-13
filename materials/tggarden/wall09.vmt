@@ -1,0 +1,70 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "tggarden\wall09"
+	"$bumpmap" "tggarden\wall09_normal"
+	"$surfaceprop" "flesh"
+
+	$envmap			env_cubemap
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[.4 .4 .4]"
+	
+	"$one"		1
+	"$zero"		0
+	"$temp"		0
+
+	$cvar 0
+	$svar 1
+	$rvar 0
+	$tvar "[0 0]"
+
+	$sine1 0
+	$sine2 0
+
+	"Proxies"
+	{
+		"Sine"
+		{
+			"resultVar" $svar
+			"sineperiod" 15
+			"sinemin" 0.96
+			"sinemax" 1
+		}
+		"Sine"
+		{
+			"resultVar" $cvar
+			"sineperiod" .5
+			"sinemin" -1.5
+			"sinemax" 1.5
+		}
+		sine
+		{
+			sineperiod .5
+			sinemin -.0025
+			sinemax .0025
+			timeoffset .1
+			resultvar $sine1
+		}
+		sine
+		{
+			sineperiod .5
+			sinemin -.0025
+			sinemax .0025
+			timeoffset .2
+			resultvar $sine2
+		}
+		add
+		{
+			srcvar1 $sine1
+			srcvar2 $sine2
+			resultvar "$tvar[0]"
+		}
+		texturetransform
+		{
+			centervar $cvar
+			scalevar $svar
+			rotatevar $rvar
+			translatevar $tvar
+			resultvar $basetexturetransform
+		}
+	}
+}

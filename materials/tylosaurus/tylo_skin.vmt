@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "tylosaurus/tylo_skin"
+	"$bumpmap" "tylosaurus/tylo_skin_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .36 .36 .30 ]"
+	"$envmapconstrast" "1"
+	"$normalmapalphaenvmapmask" 1
+}
