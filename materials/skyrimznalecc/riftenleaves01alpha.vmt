@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "skyrimznalecc/riftenleaves01alpha"
+	"$bumpmap" "skyrimznalecc/fallforestleaves01_n"
+	"$nodecal" "1"
+	"$halflambert" 1
+
+	"$alphatest" 1
+
+	"$alphatestreference" 0.6
+		
+	"$phong" "1"
+	"$phongexponent" "0"
+	"$phongboost" "0.5"
+	"$phongfresnelranges"	"[0.4 0.9 2.6]"
+	"$phongalbedotint" "1"
+
+}

@@ -1,0 +1,72 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sabiru/skyboxfloor01"
+	"$bumpmap" "sabiru/skyboxfloor01_normal"
+	"$surfaceprop" "mud"
+	
+	$phong 1
+	$basemapluminancephongmask 1
+	$phongboost	1
+	$phongexponent 1
+	$phongfresnelranges	"[1 1 1]"
+
+	$one		1
+	$zero		0
+	$temp		0
+
+	$cvar 0
+	$svar 1
+	$rvar 0
+	$tvar "[0 0]"
+
+	$sine1 0
+	$sine2 0
+
+	Proxies
+	{
+		Sine
+		{
+			resultVar $svar
+			sineperiod 25
+			sinemin 0.999
+			sinemax 1
+		}
+		Sine
+		{
+			resultVar $cvar
+			sineperiod .5
+			sinemin -1
+			sinemax 2
+		}
+		Sine
+		{
+			sineperiod .5
+			sinemin -.0025
+			sinemax .0025
+			timeoffset .1
+			resultvar $sine1
+		}
+		Sine
+		{
+			sineperiod .5
+			sinemin -.0025
+			sinemax .0025
+			timeoffset .2
+			resultvar $sine2
+		}
+		Add
+		{
+			srcvar1 $sine1
+			srcvar2 $sine2
+			resultvar "$tvar[0]"
+		}
+		Texturetransform
+		{
+			centervar $cvar
+			scalevar $svar
+			rotatevar $rvar
+			translatevar $tvar
+			resultvar $basetexturetransform
+		}
+	}
+}

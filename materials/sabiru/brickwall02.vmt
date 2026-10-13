@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sabiru/brickwall02"
+	"$bumpmap" "sabiru/brickwall02_normal"
+	"$surfaceprop" "brick"
+	
+	$envmap			env_cubemap
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[.6 .6 .6]"
+}
+

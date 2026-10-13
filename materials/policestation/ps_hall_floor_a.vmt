@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "PoliceStation/ps_hall_floor_a"
+	"$bumpmap" "PoliceStation/ps_hall_floor_a_normal"
+	"$envmap" "env_cubemap"
+    "$envmaptint" "[1 1 1]"
+	"$normalmapalphaenvmapmask" 1
+	"$specularlightmappower" 1.7
+	"%keywords" "PoliceStation"
+	"$surfaceprop" "tile"
+}

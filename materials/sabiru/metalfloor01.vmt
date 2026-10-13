@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sabiru/metalfloor01"
+	"$bumpmap" "sabiru/metalfloor01_normal"
+	"$surfaceprop" "metal"
+	
+	$phong 1
+	$basemapluminancephongmask 1
+	$phongboost	1
+	$phongexponent 20
+	$phongfresnelranges	"[.2 .2 2]"
+}
+

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "spookington/cobweb001b"
+	"$surfaceprop" "concrete"
+	"$translucent" "1"
+	"$no_cull" "1"
+}

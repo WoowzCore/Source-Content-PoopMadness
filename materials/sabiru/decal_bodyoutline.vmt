@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sabiru/decal_bodyoutline"
+	"$surfaceprop" "metal"
+	$decal 1
+	$translucent 1
+}
+

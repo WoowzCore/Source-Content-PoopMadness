@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "starwars/syphadias/props/sw_tor/bioware_ea/props/neutral/neu_tent_leanto"
+	"$nocull" 1
+}

@@ -1,0 +1,59 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sabiru/finale/finale_wall01"
+	"$bumpmap" "sabiru/finale/finale_wall01_normal"
+	"$surfaceprop" "plaster"
+
+	"$one"		1
+	"$zero"		0
+	"$temp"		0
+
+	$cvar 0
+	$svar 1
+	$rvar 0
+	$tvar "[0 0]"
+
+	$sine1 0
+	$sine2 0
+
+	"Proxies"
+	{
+		"Sine"
+		{
+			"resultVar" $cvar
+			"sineperiod" .4
+			"sinemin" -1
+			"sinemax" 2
+		}
+		sine
+		{
+			sineperiod .4
+			sinemin -.0025
+			sinemax .0525
+			timeoffset .5
+			resultvar $sine1
+		}
+		sine
+		{
+			sineperiod 1
+			sinemin -.0025
+			sinemax .1025
+			timeoffset 1
+			resultvar $sine2
+		}
+		add
+		{
+			srcvar1 $sine1
+			srcvar2 $sine2
+			resultvar "$tvar[0]"
+		}
+		texturetransform
+		{
+			centervar $cvar
+			scalevar $svar
+			rotatevar $rvar
+			translatevar $tvar
+			resultvar $basetexturetransform
+		}
+	}
+}

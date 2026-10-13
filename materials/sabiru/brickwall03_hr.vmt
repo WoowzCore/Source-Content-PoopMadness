@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sabiru/brickwall03_hr"
+	"$bumpmap" "sabiru/brickwall03_hr_normal"
+	"$surfaceprop" "brick"
+}
+

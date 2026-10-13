@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "skyrimznalecc/sthrone"
+	"$bumpmap" "skyrimznalecc/sthrone_n"
+	"$nodecal" "1"
+	"$halflambert" 1
+
+	
+	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[0.4 0.9 2.6]"
+	"$phongalbedotint" "1"
+
+}

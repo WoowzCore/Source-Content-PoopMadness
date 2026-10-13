@@ -1,0 +1,5 @@
+"UnlitGeneric"
+//Generated to allow VIDE to automatically pack the clouds
+{
+	"$basetexture" "sabiru/clouds"
+}

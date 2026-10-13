@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "skyrimznalecc/burntcorpses"
+	"$bumpmap" "skyrimznalecc/burntcorpses_n"
+}

@@ -1,0 +1,17 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "PoliceStation/ps_room_floor_a"
+	"$bumpmap" "PoliceStation/ps_room_floor_a_normal"
+	
+	"$normalmapalphaenvmapmask" 1
+	"$envmap" "env_cubemap"
+//	"$envmap" "cube_maps/maps/walls_01"
+//	"$specularlightmappower" 0.9
+	"$envmaptint" "[.12 .15 .15]"
+
+	"$phong" "1"
+	"$phongexponent" 50
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.5 0.5 0.5]"
+	"$surfaceprop" "tile"
+}

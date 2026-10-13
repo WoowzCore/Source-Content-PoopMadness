@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sprites/fat_weegeeFort_3"
+	"$nolod" 1
+	"$translucent" "1"
+}

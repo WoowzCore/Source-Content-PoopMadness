@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/plants/mushroom_brown"
+	"$alphatest" 1
+	"$nocull" 1
+}

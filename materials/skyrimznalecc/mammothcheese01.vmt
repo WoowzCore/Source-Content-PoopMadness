@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "skyrimznalecc/mammothcheese01"
+	"$bumpmap" "skyrimznalecc/mammothcheese01_n"
+	"$alphatest" 1
+	"$nocull" 1
+}
