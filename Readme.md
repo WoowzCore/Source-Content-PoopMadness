@@ -4,7 +4,6 @@
 
 ## Ссылки
 
-* https://steamcommunity.com/sharedfiles/filedetails/?id=3555006119
 * https://steamcommunity.com/sharedfiles/filedetails/?id=3555052038
 * https://steamcommunity.com/sharedfiles/filedetails/?id=3555055451
 * https://steamcommunity.com/sharedfiles/filedetails/?id=3555057212
