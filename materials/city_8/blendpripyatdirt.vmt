@@ -1,0 +1,13 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "city_8/pripyatdirt"
+	"$basetexture2" "city_8/pripyatgrass"
+	"$surfaceprop" "dirt"
+	"$blendmodulatetexture" "nature/blendtexture01"
+
+	"$bumpmap" "city_8/pripyatdirt_normal"	
+	"$bumpmap2" "city_8/pripyatgrass_normal"
+	
+	"%detailtype" "redgrass_light"
+}
+

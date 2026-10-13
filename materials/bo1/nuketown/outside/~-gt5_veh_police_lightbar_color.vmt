@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "BO1/Nuketown/Outside/~-gt5_veh_police_lightbar_color"
+	"$surfaceprop" "metal"
+                  $alphatest 0
+	 
+                $phong			1
+
+	$bumpmap		"BO1/Nuketown/Outside/t5_veh_police_lightbar_normal"
+	$phongexponent		5		
+	$phongexponenttexture	"BO1/Nuketown/Outside/~~-gt5_veh_police_lightbar_sp~55345d2f"	
+	$phongboost		1.0
+	$phongfresnelranges	"[0 0.5 1]"			
+}

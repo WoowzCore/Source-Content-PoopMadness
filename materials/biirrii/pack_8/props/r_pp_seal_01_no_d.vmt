@@ -1,0 +1,23 @@
+VertexLitGeneric
+{
+	$basetexture "biirrii/pack_8/props/r_pp_seal_01_no_d"
+	$bumpmap "Biirrii/Pack_8/Props/r_pp_plan_no000_n"
+	$surfaceprop Cardboard
+
+	$detail "biirrii/shared/detail_scratches"
+	$detailscale 2
+	$detailblendfactor 0.66
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.07 0.07 0.07]"
+	$envmapcontrast 0.19
+	$envmapsaturation 0.4
+	$envmapfresnel 0.6
+
+	$phong 1
+	$phongfresnelranges "[0.03 0.52 1]"
+	$phongtint "[0.75 0.75 0.75]"
+	$phongexponent 67
+	$phongboost 1.1
+}

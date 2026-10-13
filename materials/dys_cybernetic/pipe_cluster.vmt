@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$model" 1
+	"$baseTexture" "dys_cybernetic/pipe_cluster"
+	"$bumpmap" "dys_cybernetic/pipe_cluster_normal"
+	"$surfaceprop" "metal" 
+	"$normalmapalphaenvmapmask" 1
+
+	"$phong" "1"
+	"$phongexponenttexture" "dys_cybernetic/pipe_cluster_exp"
+	"$phongboost" "4"	
+	"$phongfresnelranges"	"[0.5 1 3]"
+
+
+
+}

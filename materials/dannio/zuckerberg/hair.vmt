@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "dannio\zuckerberg/head"
+	"$bumpmap" "dannio\zuckerberg/bumpmap"
+
+	"$translucent" 1	
+
+}

@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "dannio\zuckerberg/head"
+	"$bumpmap" "dannio\zuckerberg/bumpmap"
+                "$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[.0 0.1 1]"
+	"$detail"             "models/weapons/c_arms_citizen/skin_detail"
+	"$detailscale"        "19"
+	"$detailblendfactor"  "0.2"
+	"$detailblendmode"    "0"
+	"$rimlight" "1"
+	"$rimlightboost" "1"
+	"$rimlightexponent" "1"
+	"$rimmask" "1"
+	"$halflambert" "1"		
+	"$blendtintbybasealpha" 1
+
+}

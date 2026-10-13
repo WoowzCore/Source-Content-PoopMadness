@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "BO1/Nuketown/Outside/~-gt5_veh_movingtruck_cab_c"
+	"$surfaceprop" "metal"
+                  $alphatest 0
+	 
+                $phong			1
+
+	$bumpmap		"BO1/Nuketown/Outside/t5_veh_movingtruck_cab_n"
+	$phongexponent		3		
+	$phongexponenttexture	"BO1/Nuketown/Outside/~~-gt5_veh_movingtruck_cab_s-~3ad5a148"	
+	$phongboost		1.0
+	$phongfresnelranges	"[0 0.5 1]"			
+}

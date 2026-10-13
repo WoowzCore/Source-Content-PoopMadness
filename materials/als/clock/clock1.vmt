@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "als/CLOCK/CLOCK1"
+	"$envmap"	"env_cubemap"
+	"$envmaptint"	"[ .2 .2 .2 ]"
+	"$enmvmapmask"	"als/CLOCK/ENVMAPMASK"
+}

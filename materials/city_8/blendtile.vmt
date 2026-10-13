@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "tile/tilefloor009a"
+	"$basetexture2" "tile/tilefloor009b"
+	"$surfaceprop" "tile"
+	"$blendmodulatetexture" "nature/blendtexture01"
+
+
+}
+

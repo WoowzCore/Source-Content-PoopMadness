@@ -1,0 +1,22 @@
+VertexLitGeneric
+{
+	$basetexture "Biirrii/Props/ground/GraniteRock2"
+	$bumpmap "Biirrii/Props/ground/GraniteRock2_n"
+	$surfaceprop Rock
+
+	$detail "Biirrii/Shared/detail_stone"
+	$detailscale 5
+	$detailblendfactor 0.5
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.14 0.14 0.14]"
+	$envmapsaturation 0.2
+	$envmapfresnel 0.6
+
+	$phong 1
+	$phongfresnelranges "[0.15 0.57 1]"
+	$phongtint "[0.61 0.61 0.61]"
+	$phongexponent 50
+	$phongboost 2
+}

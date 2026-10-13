@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "bricks/red_brks_01_tile"
+//	"$bumpmap" "bricks/brick_wall_01_normal"
+//	"$envmap" "env_cubemap"
+//	"$normalmapalphaenvmapmask" 1
+
+}
+

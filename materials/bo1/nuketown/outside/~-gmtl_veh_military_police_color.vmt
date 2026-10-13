@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "BO1/Nuketown/Outside/~-gmtl_veh_military_police_color"
+	"$surfaceprop" "metal"
+                "$bumpmap"		"BO1/Nuketown/Outside/mtl_t5_veh_civ_tiara_n"
+
+                $nocull 1
+
+                $phong 1
+                $phongboost "1.75"
+                $phongexponenttexture	"BO1/Nuketown/Outside/~~-gmtl_veh_military_police_s~97106e50"
+                $phongexponent "45"
+                $phongtint "[1 .85 .85]"
+                $phongfresnelranges "[.05 .05 10]"
+
+                $ambientocclusion 1
+}

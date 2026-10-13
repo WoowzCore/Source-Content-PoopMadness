@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+$basetexture "models\effects\blood_pool"
+$translucent 1
+}

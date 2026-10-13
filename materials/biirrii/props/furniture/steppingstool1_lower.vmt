@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	$basetexture "biirrii/props/furniture/steppingstool1"
+	$bumpmap "biirrii/props/furniture/steppingstool1_n"
+	$surfaceprop Metal_Box
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.06 0.06 0.06]"
+	$envmapsaturation 0.1
+	$envmapfresnel 0.5
+
+	$phong 1
+	$phongfresnelranges "[0.1 0.55 1]"
+	$phongexponent 44
+}

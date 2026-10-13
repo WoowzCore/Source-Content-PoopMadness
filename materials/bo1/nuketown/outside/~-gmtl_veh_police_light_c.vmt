@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "BO1/Nuketown/Outside/~-gmtl_veh_police_light_c"
+	"$surfaceprop" "metal"
+                  $alphatest 0
+	 
+                $phong			1
+
+		$phongexponent		5		
+	$phongexponenttexture	"BO1/Nuketown/Outside/~~-gmtl_veh_police_light_s-rg~8f041ba1"	
+	$phongboost		1.0
+	$phongfresnelranges	"[0 0.5 1]"			
+}

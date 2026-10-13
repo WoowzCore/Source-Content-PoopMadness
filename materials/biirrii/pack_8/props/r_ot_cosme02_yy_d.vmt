@@ -1,0 +1,24 @@
+VertexLitGeneric
+{
+	$basetexture "biirrii/pack_8/props/r_ot_cosme02_yy_d"
+	$bumpmap "Biirrii/Pack_8/Props/r_ot_cosme02_yy_n"
+	$surfaceprop Plastic
+
+	$detail "biirrii/shared/detail_noise"
+	$detailscale 2.5
+	$detailblendfactor 0.43
+
+	$alphatest 1
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.06 0.06 0.06]"
+	$envmapsaturation 0.4
+	$envmapfresnel 0.6
+
+	$phong 1
+	$phongfresnelranges "[0.09 0.55 1]"
+	$phongtint "[0.76 0.76 0.76]"
+	$phongexponent 55
+	$phongboost 1.1
+}

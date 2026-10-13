@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Darksouls/baseandbone_texture"
+	"$Bumpmap" "Darksouls/baseandbone_bump"
+}

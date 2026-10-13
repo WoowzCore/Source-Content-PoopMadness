@@ -1,0 +1,22 @@
+VertexLitGeneric
+{
+	$basetexture "Biirrii/Props/ground/TrashPile4"
+	$bumpmap "Biirrii/Props/ground/TrashPile4_n"
+	$surfaceprop Cardboard
+
+	$detail "Biirrii/Shared/detail_grit"
+	$detailscale 2.5
+	$detailblendfactor 0.19
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.05 0.05 0.05]"
+	$envmapsaturation 0.18
+	$envmapfresnel 0.3
+
+	$phong 1
+	$phongfresnelranges "[0.15 0.57 1]"
+	$phongtint "[0.67 0.67 0.67]"
+	$phongexponent 50
+	$phongboost 1.1
+}

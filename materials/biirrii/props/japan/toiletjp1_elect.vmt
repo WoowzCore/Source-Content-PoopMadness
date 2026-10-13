@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+	$basetexture "biirrii/props/japan/toiletjp1"
+	$bumpmap "biirrii/props/japan/toiletjp1_n"
+	$surfaceprop Plastic
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.08 0.08 0.08]"
+	$envmapsaturation 0.25
+
+	$phong 1
+	$phongfresnelranges "[0.15 0.57 1]"
+	$phongtint "[0.84 0.84 0.84]"
+	$phongexponent 5
+	$phongboost 1.1
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Darksouls/bonfire_sword_texture"
+	"$Bumpmap" "Darksouls/bonfire_sword_bump"
+}

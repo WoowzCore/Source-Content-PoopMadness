@@ -1,0 +1,22 @@
+VertexLitGeneric
+{
+	$basetexture "biirrii/props/japan/tablelow1"
+	$bumpmap "biirrii/props/japan/tablelow1_n"
+	$surfaceprop Wood_Furniture
+
+	$detail "biirrii/shared/detail_scratches"
+	$detailscale 3.4
+	$detailblendfactor 0.5
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.10 0.09 0.08]"
+	$envmapsaturation 0.75
+	$envmapfresnel 0.5
+
+	$phong 1
+	$phongfresnelranges "[0.1 0.55 0.7]"
+	$phongtint "[0.62 0.62 0.62]"
+	$phongexponent 100
+	$phongboost 1.07
+}

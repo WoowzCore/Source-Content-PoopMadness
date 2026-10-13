@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "bunny/doctor_house/house_hair"
+	"$bumpmap" "bunny/doctor_house/house_hair_nm"
+	"$halflambert" 1
+	"$translucent" 1
+	"$nocull" "1"
+}

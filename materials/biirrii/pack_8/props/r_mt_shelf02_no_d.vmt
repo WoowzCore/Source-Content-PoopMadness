@@ -1,0 +1,23 @@
+VertexLitGeneric
+{
+	$basetexture "biirrii/pack_8/props/r_mt_shelf02_no_d"
+	$bumpmap "biirrii/shared/normalmap_flat"
+	$surfaceprop Metalvent
+
+	$detail "biirrii/shared/detail_paper"
+	$detailscale 3.1
+	$detailblendfactor 0.1
+
+	$envmap "env_cubemap"
+	$envmapmask "biirrii/pack_8/props/r_mt_shelf02_no_m"
+	$envmaptint "[0.05 0.05 0.05]"
+	$envmapcontrast 0.3
+	$envmapsaturation 0.4
+	$envmapfresnel 0.7
+
+	$phong 1
+	$phongfresnelranges "[0.08 0.54 1]"
+	$phongtint "[0.65 0.65 0.65]"
+	$phongexponent 90
+	$phongboost 1.1
+}

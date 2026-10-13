@@ -1,0 +1,8 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" 		"city_8\pripyattilewall1"
+	"$bumpmap" 			"city_8\pripyattilewall1_normal"
+	"$surfaceprop" 		"tile"
+
+
+}

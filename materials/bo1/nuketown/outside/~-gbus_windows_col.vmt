@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "BO1/Nuketown/Outside/~-gbus_windows_col"
+	"$surfaceprop" "metal"
+                 $translucent 1
+
+	 
+                $phong			1
+
+	$bumpmap		"BO1/Nuketown/Outside/bus_windows_nml"
+	$phongexponent		5		
+	$phongexponenttexture	"BO1/Nuketown/Outside/~~-gbus_windows_spc-rgb&~-rbu~fdaf72e0"	
+	$phongboost		1.0
+	$phongfresnelranges	"[0 0.5 1]"		
+}

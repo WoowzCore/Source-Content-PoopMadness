@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Plaster/plasterwall003b"
+	"$bumpmap" "city_8/pripyatwall_normal"			
+	"$surfaceprop" "plaster"
+
+}

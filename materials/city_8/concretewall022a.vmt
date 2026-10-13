@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "concrete/concretewall022a"
+	"$surfaceprop" "concrete"
+
+	"$bumpmap" "city_8/pripyatwall_normal"	
+
+}

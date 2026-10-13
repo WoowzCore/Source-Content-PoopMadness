@@ -1,0 +1,22 @@
+VertexLitGeneric
+{
+	$basetexture "biirrii/props/ground/debris_rubble5"
+	$bumpmap "biirrii/props/ground/debris_rubble5_n"
+	$surfaceprop Gravel
+
+	$detail "biirrii/shared/detail_grit"
+	$detailblendfactor 0.4
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.05 0.05 0.05]"
+	$envmapcontrast 0.5
+	$envmapsaturation 0.1
+	$envmapfresnel 0.4
+
+	$phong 1
+	$phongfresnelranges "[0.13 0.56 1]"
+	$phongtint "[0.38 0.38 0.38]"
+	$phongexponent 69
+	$phongboost 1.1
+}

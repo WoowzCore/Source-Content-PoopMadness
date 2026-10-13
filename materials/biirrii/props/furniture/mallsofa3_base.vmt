@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+	$basetexture "Biirrii/Props/Furniture/Mallsofa3_base"
+	$bumpmap "Biirrii/Props/Furniture/Mallsofa3_base_n"
+	$surfaceprop Wood_Furniture
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.07 0.07 0.07]"
+	$envmapcontrast 0.33
+	$envmapsaturation 0.2
+	$envmapfresnel 0.65
+
+	$phong 1
+	$phongfresnelranges "[0.08 0.54 1]"
+	$phongtint "[0.62 0.62 0.62]"
+	$phongexponent 2
+	$phongboost 1.1
+}

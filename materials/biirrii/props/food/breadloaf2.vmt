@@ -1,0 +1,23 @@
+VertexLitGeneric
+{
+	$basetexture "Biirrii/Props/Food/BreadLoaf2"
+	$bumpmap "Biirrii/Props/Food/BreadLoaf2_n"
+	$surfaceprop Dirt
+
+	$detail "biirrii/shared/detail_grit"
+	$detailblendmode 3
+	$detailscale 2
+	$detailblendfactor 0.12
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.05 0.04 0.03]"
+	$envmapcontrast 0.52
+	$envmapsaturation 0.18
+
+	$phong 1
+	$phongfresnelranges "[0.19 0.41 1]"
+	$phongtint "[0.57 0.39 0.08]"
+	$phongexponent 5
+	$phongboost 0.51
+	$phongalbedoboost 0.78
+}

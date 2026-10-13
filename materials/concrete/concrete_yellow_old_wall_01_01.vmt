@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "concrete/concrete_yellow_old_wall_01"
+	"$bumpmap" "concrete/concrete_yellow_old_wall_01_normal"
+	"$color" "[1 1 2]"
+}
+

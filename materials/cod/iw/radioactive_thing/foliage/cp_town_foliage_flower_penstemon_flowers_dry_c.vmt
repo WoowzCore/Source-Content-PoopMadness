@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 				"COD/IW/Radioactive_Thing/Foliage/cp_town_foliage_flower_penstemon_flowers_dry_c"
+$bumpmap	"COD/IW/Radioactive_Thing/Foliage/cp_town_foliage_flower_penstemon_flowers_dry_n_8f494d3e_packed_ng"
+$alphatest 1	
+   "$nocull"      "1" 
+   "$envmap"             "env_cubemap"
+   "$envmapmask" "COD/IW/Radioactive_Thing/Foliage/cp_town_foliage_flower_penstemon_flowers_dry_g"
+   "$envmaptint"         "[0.00 0.00 0.00]" 
+   "$normalmapalphaenvmapmask"    "1"
+
+$AmbientOcclusion 1
+
+$AmbientOcclColor "[.n .n .n]"
+Replacing n with a number of the color (RGB format)
+
+$AmbientOcclTexture "COD/IW/Radioactive_Thing/Foliage/cp_town_foliage_flower_penstemon_flowers_dry_o"
+
+   	$phong               1
+	$phongfresnelranges  "[0.3 0.75 1.00]"
+	$halflambert         1
+	$phongexponent       99
+	$phongboost          1 
+}

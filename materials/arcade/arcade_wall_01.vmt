@@ -1,0 +1,19 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "arcade/arcade_wall_01"
+	"$bumpmap" "arcade/arcade_wall_01_normal"
+
+	"$envmap" "cube_maps/maps/walls_01"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[0.3 0.3 0.3]"
+	"$specularlightmappower" 1
+	
+	// "$detail" "Ground/asphalt_01_dirt"
+	// "$detailscale" .8
+	// "$detailblendfactor" 0.3
+    // "$detailblendmode" 1
+	
+	"$surfaceprop" "concrete"
+	
+	"%keywords" "concrete"
+}

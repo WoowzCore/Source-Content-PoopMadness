@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "danielgamingsuit/suit"
+	
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0.1"
+	
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar $color2
+			default 0.53 0.46 0.39
+		}
+	}
+}

@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "concrete/corridor_wall_b"
+//	"$bumpmap" "concrete/corridor_wall_b_normal"
+//	"$envmap" "env_cubemap"
+//	"$normalmapalphaenvmapmask" 1
+	"%keywords" "concrete"
+}

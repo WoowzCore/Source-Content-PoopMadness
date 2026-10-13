@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+	$basetexture "biirrii/pack_8/props/r_ot_drugpkg07_mo_d"
+	$bumpmap "biirrii/shared/normalmap_flat"
+	$surfaceprop Paper
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.09 0.09 0.09]"
+	$envmapcontrast 0.19
+	$envmapsaturation 0.4
+	$envmapfresnel 0.6
+
+	$phong 1
+	$phongfresnelranges "[0.1 0.55 1]"
+	$phongtint "[0.75 0.75 0.75]"
+	$phongexponent 67
+	$phongboost 1.06
+}

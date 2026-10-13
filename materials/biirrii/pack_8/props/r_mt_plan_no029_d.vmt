@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	$basetexture "biirrii/pack_8/props/r_mt_plan_no029_d"
+	$bumpmap "Biirrii/Pack_8/Props/r_mt_plan_no029_n"
+	$surfaceprop Metalpanel
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.06 0.06 0.06]"
+	$envmapcontrast 0.4
+	$envmapsaturation 0.3
+	$envmapfresnel 0.75
+}

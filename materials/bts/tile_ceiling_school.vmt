@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Props/acousticceiling002a"
+	$bumpmap "tile/tile_ceiling_01_height-ssbump"
+	$ssbump 1
+	$surfaceprop tile
+}

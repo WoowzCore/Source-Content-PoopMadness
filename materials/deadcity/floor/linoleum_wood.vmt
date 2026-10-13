@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "deadcity/floor/linoleum_wood"
+	"$surfaceprop" "Wood_Solid"
+}

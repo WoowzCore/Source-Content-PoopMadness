@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "bunny/doctor_house/shoe_lace"
+	"$bumpmap" "bunny/doctor_house/shoe_lace_nm"
+   	"$halflambert" "1"
+
+	"$phong" "1"
+	"$phongboost" ".5"
+	"$phongexponent" "30"
+	"$phongfresnelranges" "[.1 .1 .1]"
+}
